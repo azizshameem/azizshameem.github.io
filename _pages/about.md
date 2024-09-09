@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Fifth year undergaduate student studying Artificial Intelligence @ IIT Bombay
 
 profile:
   align: right
@@ -27,14 +27,15 @@ Here are some things that I have pursued as a hobby more or less, and am fascina
 * Tennis
 * Chess
 * Cricket
+* Guitar
 * Drums
-* Game Developement
 
 In my free time, I:
-* Like to go through the recent developements in Artifical Intelligence and Machine Learning.
-* Surf youtube for random tutorials on things I find interesting.
-* Watch light-hearted to dark comedy.
-* Hang out with friends.
+* Like to go through the recent developements in Artifical Intelligence and Machine Learning
+* Surf youtube for random tutorials on things I find interesting
+* Have in depth conversations about life and its aspects : things that matter
+* Watch light-hearted to dark comedy
+* Hang out with friends
 
-I am inclined towards calm and meaningful music, usually those associated with some events in my past. I like the nostalgia it brings along with it.
-I don’t consider having a favorite artist/band, but I usually end up listening to old songs, or ones that resonate with me.
+I am inclined towards calm and meaningful music, usually those associated with some events in my past. I like the nostalgia it brings with it.
+I don’t consider having a favorite artist/band, but I usually end up listening to old hindi songs, or ones that resonate with me.
