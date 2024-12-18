@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aziz Shameem",
+    "label": "Data Science/ML Enthusiast",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "azizshameem.2002@gmail.com",
+    "summary": "Fifth Year Undergraduate at IIT Bombay with a keen interest in all things ML",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
