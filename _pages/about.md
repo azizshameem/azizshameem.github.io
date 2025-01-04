@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, and welcome to my personal space on the web!    
 I am final-year student at IIT Bombay, a researcher and enthusiast in Data Science and Machine Learning, blending technical expertise with a drive for innovation. My interests primarily include Generative Machine Learning and its applications, although I separately enjoy sub fields like Optimization, Deep Learning Fundamentals (interpretability, trainability and the like) and Control Systems.  
-Here is a link to my [CV/Résumé](assets/pdf/CurriculumVitae.pdf). You can find more details in the [CV](/cv/) section. 
+Find details about my work and projects in my [CV/Résumé](assets/pdf/CurriculumVitae.pdf). You can also find it in the [CV](/cv/) section. 
 
 I currently reside at IIT Bombay, though I hail from Pune, where I have attended my secondary and high school. I can speak English and Hindi(and Urdu, somewhat) fluently.  
 
