@@ -4,7 +4,7 @@ permalink: /courses/
 title: courses
 description: A tally of some of the academic courses I have undertaken
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ## Teaching Assistantship
