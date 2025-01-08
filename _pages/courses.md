@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Teaching Assistantship
 I have been a teaching assistant for the following courses:
-- ```DS 203``` Programming for Data Science *(Autumn 2024)*
+- ```DS 203``` Programming for Data Science *(Autumn 2024, Spring 2025)*
 - ```CS 419``` Introduction to Machine Learning *(Spring 2024)*
 - ```MA 106``` Linear Algebra *(Spring 2023)*
 - ```MA 205``` Complex Analysis *(Autumn 2022)*
