@@ -32,7 +32,7 @@ Explore the beauties in the small-er things, in conversations you partake, in so
 मुश्किलों के आने-जाने का,                                        The onset and offset of hardships,    
 वो काम के लिए घर से दूर बनाए ठिकाने का,                          That distant place made for work,    
 वो न पा सके निशाने का,                                         The missed opportunities,    
-वो आधे अधूरे अफसाने के,                                        The unfinished stories,      
+वो आधे अधूरे अफसाने का,                                        The unfinished stories,      
 वो हर दूसरे दिन घर जाने के बहाने का,                              The excuses to visit home every other day,     
 और जब घर पहुँच जाओ, तो घर के खाने का !!                       And when home, the joy of home-cooked meals !!    
 ```
