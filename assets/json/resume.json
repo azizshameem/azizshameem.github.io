@@ -175,6 +175,20 @@
   ],
   "publications": [
     {
+      "name": "Better Sampling as a Path to Stronger VAEs",
+      "publisher": "ICLR 2025 ( DeLTa Workshop )",
+      "releaseDate": "2025-03",
+      "url": "https://openreview.net/pdf?id=2LuYmNlRfF",
+      "summary": "Analysing sampling strategies to better image generation using VAEs"
+    },
+    {
+      "name": "Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2025-01",
+      "url": "https://openreview.net/pdf?id=Q1kPHLUbhi",
+      "summary": "Study of methods for Self-Supervised Covariance Estimation in Deep heteroscedastic Regression"
+    },
+    {
       "name": "Speeding up NAS with Adaptive Subset Selection",
       "publisher": "AutoML 2024",
       "releaseDate": "2024-04",
