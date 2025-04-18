@@ -21,7 +21,7 @@ I have tried to follow each paragraph with some commentary to convey the theme o
 भूली भुलाई आवाज़ों का,                                          Of lost and forgotten voices,     
 मीक़ातों का, नमाज़ों का,                                         Of moments and prayers,      
 मज़ारों का, नज़ारों का,                                           Of shrines and sights,    
-छोटी मोटी तक़रीरों का,                                          Of minor misunderstandings,    
+छोटी मोटी तक़रारो का,                                          Of minor misunderstandings,    
 फूलों का, बहारों का,                                            Of flowers and springs,    
 यारों का, रिश्तेदारों का !!                                        Of friends and family !!    
 ```
