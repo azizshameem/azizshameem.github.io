@@ -4,7 +4,7 @@
     "label": "Data Science/Machine Learning Enthusiast",
     "image": "",
     "email": "azizshameem.2002@gmail.com",
-    "summary": "Fifth Year Undergraduate at IIT Bombay with a keen interest in all things ML",
+    "summary": "Data Scientist @Meesho with a keen interest in all things ML",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -21,6 +21,15 @@
     ]
   },
   "work": [
+    {
+      "name": "Meesho Pvt. Ltd.",
+      "position": "Data Scientist",
+      "location": "Bengaluru, India",
+      "url": "https://www.meesho.com/",
+      "startDate": "2025-07-07",
+      "endDate": "Present",
+      "summary": "Part of a Pricing project, as a part of a larger Fraud-Detection Team"
+    },
     {
       "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
       "position": "Student Research Intern",
@@ -93,13 +102,20 @@
       "location": "Mumbai, India",
       "url": "https://www.iitb.ac.in/",
       "area": "Electrical Engineering and Data Science",
-      "studyType": "Dual Degree - BTech + MTech",
+      "studyType": "Dual Degree - BTech (EE) + MTech (DS)",
       "startDate": "2020-11-01",
-      "endDate": "2025-06-01",
-      "score": "9.71/10"
+      "endDate": "2025-06-30",
+      "score": "9.72/10"
     }
   ],
   "awards": [
+    {
+      "title": "Insitute Silver Medal",
+      "date": "2025-08-23",
+      "awarder": "Indian Institute of Technology, Bombay",
+      "url": "https://iitb.ac.in",
+      "summary": "Awarded to the Department Wise Top Academic Performer overall"
+    },
     {
       "title": "Insitute Academic Prize",
       "date": "2022, 2023",
@@ -164,23 +180,9 @@
       "issuer": "Udemy",
       "url": "https://www.udemy.com/certificate/UC-0914168d-bc37-4d9c-aeaa-e7861943c0bf/",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Python for CV with OpenCV",
-      "date": "",
-      "issuer": "Udemy",
-      "url": "https://www.udemy.com/certificate/UC-0914168d-bc37-4d9c-aeaa-e7861943c0bf/",
-      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
-    {
-      "name": "Better Sampling as a Path to Stronger VAEs",
-      "publisher": "ICLR 2025 ( DeLTa Workshop )",
-      "releaseDate": "2025-03",
-      "url": "https://openreview.net/pdf?id=2LuYmNlRfF",
-      "summary": "Analysing sampling strategies to better image generation using VAEs"
-    },
     {
       "name": "Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression",
       "publisher": "ICLR 2025",

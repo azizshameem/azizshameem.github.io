@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masters VS PhD - Choosing what to purse
+title: Masters VS PhD - Choosing what to pursue
 description: A sneak into my own experience with this so-pervasive dilemma
 tags : postGrad, academics, research
 ---
