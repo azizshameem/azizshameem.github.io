@@ -9,7 +9,7 @@ tags : LLMs, GenAI
 
 #### Multi-LLM Debates: A Few Experiments in Making Models Argue
 
-Over the past few weeks, I built a small system to run structured debates between multiple large language models. It started as a weekend, vibe-coded project, without much planning. I wanted to see what would happen if models were not just asked for answers, but forced to argue with each other.
+Over the past few days, I built a small system to run structured debates between multiple large language models. I wanted to see what would happen if models were not just asked for answers, but forced to argue with each other.
 
 I ended up running a series of debates across different kinds of problems. This post is a compressed view of those experiments and how the reasoning of different models evolved over time.
 
