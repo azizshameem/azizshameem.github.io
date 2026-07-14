@@ -6,7 +6,7 @@ subtitle: Turning Data into Insights, One Model at a Time
 
 profile:
   align: right
-  image: myself.jpeg
+  image: myself_iitb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bellandur, Bengaluru 560103</p>
