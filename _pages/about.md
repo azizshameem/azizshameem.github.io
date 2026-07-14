@@ -17,10 +17,10 @@ social: true # includes social icons at the bottom of the page
 --- 
 
 Hello, and welcome to my personal space on the web!   
-I am a Data Scientist working at an Indian E-Commerce platform by the Name of *Meesho Pvt Ltd*, where I am a part of team responsible for pricing. Previously, I have spent five years at IIT Bombay, where along with the multitude of Electrical and ML courses, I have had the fortune of conducting extensive research on a variety of projects (You can find more information on them in my [CV/Résumé](assets/pdf/FinalCV.pdf), or visit the [CV](/cv/) section or my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=RW7_hkkAAAAJ)).  
-While my research primarily involved analysis of Generative Machine Learning Methods, lately I find myself involved in applications of Reinforcement Learning for metric-based Reward Updates. My general interests span Optimization, Deep Learning Fundamentals (interpretability, trainability and the like) and Control Systems.
+I am a Data Scientist working at an Indian E-Commerce platform by the Name of *Meesho Ltd*, where I am a part of team responsible for ranking. Previously, I have spent five years at IIT Bombay, where along with the multitude of Electrical and ML courses, I have had the fortune of conducting extensive research on a variety of projects (You can find more information on them in my [CV/Résumé](assets/pdf/FinalCV.pdf), or visit the [CV](/cv/) section or my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=RW7_hkkAAAAJ)).  
+While my research primarily involved analysis of Generative Machine Learning Methods, I have also dwindled fairly in applications of Reinforcement Learning and Recommendation Systems. My general interests span Optimization, Deep Learning Fundamentals (interpretability, trainability and the like) and Control Systems.
 
-I currently reside in Bangalore, India, though I hail from Pune, where I have attended my secondary and high school. I can speak English and Hindi (and Urdu, somewhat) fluently.  
+I currently reside in Bangalore, India, though I hail from Pune, where I have attended my secondary and high school. I can speak English and Hindi (and Urdu) fluently.  
 
 When I’m not immersed in code or datasets, you might find me serving on a tennis court, strategizing over a game of chess, enjoying a cricket match, or unwinding with my guitar or drums
 
